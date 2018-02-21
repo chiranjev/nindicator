@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/nindicator.iml" filepath="$PROJECT_DIR$/nindicator.iml" />
+      <module fileurl="file://E:\Data\AndroidDevelopment\Workspace\nindicator\nindicator.iml" filepath="E:\Data\AndroidDevelopment\Workspace\nindicator\nindicator.iml" />
     </modules>
   </component>
 </project>
